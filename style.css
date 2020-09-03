@@ -1,0 +1,65 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #606c71;
+}
+
+
+@media screen and (max-width: 42em)
+.page-header {
+    padding: 2rem 1rem;
+}
+.header-class{
+  /* height: 100%;
+  width: 100%; */
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+.header-title{
+/* font-style: 'Montserrat'; */
+font-size: 1.75rem;
+padding-top: 2.50rem;
+margin-bottom: 1.10rem;
+}
+
+.header-subtitle{
+  /* font-style: 'Montserrat'; */
+  font-size: 1.50rem;
+  margin-bottom: 1.10rem;
+  padding-bottom: 5rem;
+}
+
+main{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.game-section{
+  padding-bottom: 5rem;
+}
+
+.image-logo{
+  margin-top: 0.5rem;
+  margin-bottom: 1.10rem;
+  text-align: center;
+}
+.image-class{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+/* .site-footer {
+    padding-top: 2rem;
+    margin-top: 2rem;
+    border-top: solid 1px #eff0f1;
+} */
