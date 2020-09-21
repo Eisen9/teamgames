@@ -45,8 +45,9 @@ main{
   margin-right: 20%;
 }
 
-.tip-view{
+.view-tip{
     color: #d97d10;
+    font-size: 0.3rem;
 }
 .game-section{
   padding-bottom: 5rem;
